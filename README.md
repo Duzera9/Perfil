@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luis Eduardo Alves Ribeiro</h1>
-<h3 align="center">Future Dev Fullstack from brasil,Future promise for me and football player , i am study github and JS</h3>
+<h3 align="center">Future Fullstack developer in Brazil, this is a dream for me and a football player. I study GitHub and JavaScript. Thank God.</h3>
 
 - 📫 How to reach me **luiseduardoalvesribeiro@gmail.com**
 
