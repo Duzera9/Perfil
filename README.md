@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luis Eduardo Alves Ribeiro</h1>
-<h3 align="center">Future Dev Fullsatck from brasil</h3>
+<h3 align="center">Future Dev Fullsatck from brasil,Future promise for me and football player , i am study github and JS</h3>
 
 - 📫 How to reach me **luiseduardoalvesribeiro@gmail.com**
 
